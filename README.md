@@ -1,6 +1,14 @@
-# flutterlogindesign
+# Flutter App - Login-Register App - Flutter UI
 
-A new Flutter application.
+## [Watch it on YouTube](https://youtu.be/0ENSb1dx4Ds)
+
+We design a simple mobile app by using flutter.
+
+### Login-Register App Final UI
+
+![App UI](https://github.com/ravi84184/flutter_login_design/blob/master/ss.png)
+
+
 
 ## Getting Started
 
